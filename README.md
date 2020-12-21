@@ -8,10 +8,6 @@ Implementation
 •	Login 
 The user must login into the system using a validated password. For the purpose of this program the password will be: clyderunners.
 
-As this code is being supplied by another developer you must first unit test it to ensure that it works before integrating it with the rest of the program as part of the integration testing. (the source code for login will be supplied to you by your assessor).
-
-
-
 •	Menu
 The user will be presented with the following menu:
 1.	Read and Display File (the file will be the text file supplied to you by Glasgow Clyde Runners and will include the runner’s names and times for the 400m finalists) The data in the file should be stored using a 2D array and printed back to the user. 
